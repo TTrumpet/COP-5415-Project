@@ -7,8 +7,7 @@ First, download the Perception Test Dataset (Instructions here: https://github.c
 ### Gemini
 
 1. Set up environment by running
-```pip install google-generativeai
-```
+```pip install google-generativeai```
 
 2. Get Gemini API Key (Instructions here: https://ai.google.dev/gemini-api/docs/api-key) and set global variable API_KEY.
 
