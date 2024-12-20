@@ -1,0 +1,8 @@
+[2024-11-27 13:18:35,545] [INFO] [real_accelerator.py:161:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+PROCESSING TRACKING for vqa_gemini_output.json and saving to vqa_tracking_owl_gemini_output.json...
+1545
+1545
+HOTA:  0.10131415008567227
+DetA:  0.08727629763929526
+AssA:  0.1243211090678246
+LocA:  0.9430898246479478
